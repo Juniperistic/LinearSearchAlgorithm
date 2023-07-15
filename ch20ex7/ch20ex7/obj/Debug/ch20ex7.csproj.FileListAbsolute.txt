@@ -1,0 +1,7 @@
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\bin\Debug\ch20ex7.exe.config
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\bin\Debug\ch20ex7.exe
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\bin\Debug\ch20ex7.pdb
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\obj\Debug\ch20ex7.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\obj\Debug\ch20ex7.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\obj\Debug\ch20ex7.exe
+C:\Users\miran\Desktop\Week 11 (database not done)\Week 11 Codes\ch20ex7\ch20ex7\obj\Debug\ch20ex7.pdb
